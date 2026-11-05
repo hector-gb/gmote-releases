@@ -1,0 +1,128 @@
+{
+  "releases": [
+    {
+      "tag": "v0.6",
+      "name": "v0.6 - Gmote USB+Bluetooth",
+      "publishedAt": "2026-11-04T16:02:57Z",
+      "notes": "Enabled bluetooth support",
+      "files": [
+        {
+          "name": "boot.py",
+          "size": 1180
+        },
+        {
+          "name": "code-usb.py",
+          "size": 3960
+        },
+        {
+          "name": "gmote-installer_macOS.zip",
+          "size": 5642
+        },
+        {
+          "name": "source-sha.txt",
+          "size": 41
+        }
+      ]
+    },
+    {
+      "tag": "v0.5",
+      "name": "v0.5 - Gmote USB-Only",
+      "publishedAt": "2026-09-04T01:50:02Z",
+      "notes": "Creates independent shortcuts for each item making more resilient to misfires",
+      "files": [
+        {
+          "name": "boot.py",
+          "size": 221
+        },
+        {
+          "name": "code-usb.py",
+          "size": 2386
+        },
+        {
+          "name": "gmote-installer_macOS.zip",
+          "size": 5642
+        },
+        {
+          "name": "source-sha.txt",
+          "size": 41
+        }
+      ]
+    },
+    {
+      "tag": "v0.4",
+      "name": "v0.4 - Gmote USB-Only",
+      "publishedAt": "2026-07-22T04:29:06Z",
+      "notes": "1. Rising/falling edge shortcuts \n- Press brings Meet to front, release sends the shortcut",
+      "files": [
+        {
+          "name": "boot.py",
+          "size": 221
+        },
+        {
+          "name": "code-usb.py",
+          "size": 2676
+        },
+        {
+          "name": "gmote-installer_macOS.zip",
+          "size": 2929
+        },
+        {
+          "name": "source-sha.txt",
+          "size": 41
+        }
+      ]
+    },
+    {
+      "tag": "v0.3",
+      "name": "v0.3 - Gmote USB-Only",
+      "publishedAt": "2026-05-04T15:49:05Z",
+      "notes": "1. Fixing the camera minimizing issue",
+      "files": [
+        {
+          "name": "boot.py",
+          "size": 221
+        },
+        {
+          "name": "code-usb.py",
+          "size": 2187
+        },
+        {
+          "name": "gmote-installer_macOS.zip",
+          "size": 3846
+        },
+        {
+          "name": "source-sha.txt",
+          "size": 41
+        }
+      ]
+    },
+    {
+      "tag": "v0.2",
+      "name": "v0.2 - Gmote USB-Only",
+      "publishedAt": "2026-04-21T04:20:07Z",
+      "notes": "",
+      "files": [
+        {
+          "name": "code-usb.py",
+          "size": 2213
+        },
+        {
+          "name": "source-sha.txt",
+          "size": 41
+        }
+      ]
+    },
+    {
+      "tag": "v0.1",
+      "name": "v0.1 - Gmote USB-Only",
+      "publishedAt": "2026-03-14T03:34:20Z",
+      "notes": "",
+      "files": [
+        {
+          "name": "code-usb.py",
+          "size": 2214
+        }
+      ]
+    }
+  ]
+}
